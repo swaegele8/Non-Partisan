@@ -1,0 +1,17 @@
+body{
+	background-color: #ffcccc;
+	color: #002233;
+	width: 100%;
+	text-align: center; 
+ }
+ p{
+font-family: "Hannote TC";
+}
+
+ul{
+	list-style-position: inside;
+}
+
+ol{
+	list-style-position: inside;
+}
